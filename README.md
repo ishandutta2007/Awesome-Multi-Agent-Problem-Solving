@@ -1,6 +1,6 @@
 # Awesome-Multi-Agent-Problem-Solving
 
-# Top Multi-Agent Problem Solving Tools Ecosystem
+## Top Multi-Agent Problem Solving Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Inner-Monologue Orchestration, Recursive Task Decomposition & Governed Agent Colonies*  
