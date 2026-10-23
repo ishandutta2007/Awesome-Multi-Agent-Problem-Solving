@@ -76,7 +76,7 @@ The following hosted platforms provide enterprise agent swarms, managed human-in
 
 ## 💻 Open-Source GitHub Projects
 
-Curated open-source repositories and runtime frameworks for constructing multi-agent problem-solving systems. Sorted descending by **GitHub Star Count**:
+Curated open-source repositories and runtime frameworks for constructing multi-agent problem-solving systems. Sorted descending by **GitHub Stars_Count**:
 
 ### 1. 🤖 [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) [![AutoGPT Stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white)](https://github.com/Significant-Gravitas/AutoGPT/stargazers)
 - **Architecture**: Autonomous agent ecosystem featuring the Classic CLI agent, Agent Protocol compliance, and the visual AutoGPT Builder.
@@ -207,7 +207,7 @@ We welcome additions and updates from the open-source and enterprise AI communit
 2. **Create a Feature Branch**: `git checkout -b feature/add-new-framework`.
 3. **Add Entry**: Ensure you follow the established tabular or list formatting:
    - For SaaS: Include specific starting tier pricing, free tier/trial limits, and company size.
-   - For Open-Source: Include star badge formatted with `style=social&color=white`, GitHub link to stargazers, architecture summary, and license.
+   - For Open-Source: Include Stars_Badge formatted with `style=social&color=white`, GitHub link to stargazers, architecture summary, and license.
 4. **Submit a Pull Request**: Provide a clear explanation of the project's multi-agent problem-solving capabilities.
 
 ---
